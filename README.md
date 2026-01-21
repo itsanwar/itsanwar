@@ -110,7 +110,6 @@ I specialize in **backend architecture, system design, performance optimization,
 
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akdev&theme=vision-friendly-dark&bg_color=00000000&hide_border=true)](https://github.com/akdev)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=akdev&theme=dark&bg_color=00000000&hide_border=true)](https://git.io/streak-stats)
 
